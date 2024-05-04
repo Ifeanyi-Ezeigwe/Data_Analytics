@@ -6,7 +6,7 @@
 **Summary:** 
 
 **Dashboard Overview:**
-![Screenshot.png](Screenshot.png)
+![HR_Analytics.png](HR_Analytics.png)
 
 # Project 2
 
