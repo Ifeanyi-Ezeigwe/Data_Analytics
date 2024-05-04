@@ -15,4 +15,4 @@
 **Summary:**
 
 **Dashboard Overview:**
-![
+![Adidas_Interactive_Dashboard.png](Adidas_Interactive_Dashboard.png)
