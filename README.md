@@ -17,3 +17,15 @@
 
 **Dashboard Overview:**
 ![Adidas_Interactive_Dashboard.png](Adidas_Interactive_Dashboard.png)
+
+
+
+# Project 3
+
+**Title:** [Product Performance Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+
+**Summary:**
+
+**Dashboard Overview:**
+![Sales_performance.png](Sales_performance.png)
+
