@@ -6,6 +6,13 @@
 **Summary:** 
 
 **Dashboard Overview:**
-![HR](HR_dashboard.png)
+![Screenshot.png](Screenshot.png)
 
+# Project 2
 
+**Title:** [Interactive Sales Dasboard]()
+
+**Summary:**
+
+**Dashboard Overview:**
+![
