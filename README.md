@@ -10,7 +10,7 @@
 
 # Project 2
 
-**Title:** [Interactive Sales Dasboard]()
+**Title:** [Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Summary:**
 
