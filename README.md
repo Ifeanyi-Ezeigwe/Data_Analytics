@@ -6,4 +6,6 @@
 **Summary:** 
 
 **Dashboard Overview:**
-![Screenshot](Screenshot.png)
+![HR](HR_dashboard.png)
+
+
