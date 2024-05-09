@@ -4,8 +4,6 @@
 
 **Project Description**: This dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
 
-
-
 **Dashboard Overview**: The dashboard indicates an employee turnover of 1,470. This metric represents the number of employees who have left the organization during a specific period.
 High turnover may signal potential issues related to job satisfaction, work environment, or management practices.
 The gender distribution shows that 60% of the workforce is male, while 40% is female.
@@ -30,9 +28,19 @@ In summary, the company can use this data to address challenges, optimize workfo
 # Project 2
 **Title**: [Adidas Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
-**Project Description**: This dashboard gives an insight into sales performance for Adidas USA Sales
+**Project Description**: This dashboard provides a comprehensive view of Adidas’ sales performance, offering actionable insights that can help optimize sales strategies, product distribution, and regional focus. It’s a valuable tool for making data-driven decisions in the retail space.
 
-**Dashboard Overview**:
+**Dashboard Overview**: The “Total Sales by Retailers” bar graph indicates that sales figures vary significantly across retailers. 
+This suggests that certain retailers may have more effective sales strategies or stronger market presence.
+The “Total Sales by Products and Retailers” bar graph shows how different products perform across various retailers. 
+This could inform decisions on which products to stock more heavily or promote in specific retail outlets.
+The pie chart “Total Units by Sales Method” reveals the proportion of units sold through different methods, highlighting the most effective sales channels.
+The “Top 5 Cities with Highest Units Sold” bar graph ranks cities based on unit sales, pinpointing urban markets with high demand. 
+Meanwhile, the “Total Operating Profit by Regions” graph shows profit margins, which can guide resource allocation to the most profitable regions.
+The left panel presents a couple of slicers and timeline with filters for Attendees, Retailers, Region, and Product allows for a customized analysis, enabling stakeholders to drill down into specific data points for a more granular understanding of sales trends.
+
+
+
 ![Adidas_Sales_Dashboard.PNG](Adidas_Sales_Dashboard.PNG)
 
 
