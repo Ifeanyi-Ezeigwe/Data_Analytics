@@ -143,11 +143,14 @@ The bottom graph on the right side shows sleep duration by occupation, which can
 
 This dashboard is a valuable tool for health professionals and researchers to analyze how occupational factors influence BMI and sleep patterns, which are critical components of overall health and well-being. It provides a clear and interactive overview of health-related data for strategic decision-making in occupational health management.
 
-**Dashboard Overview**: 
+**Dashboard Overview**: "**Occupational Health Impact Analysis**” dashboard has a significant correlation between occupation and health-related factors such as BMI and sleep quality. 
+
+The data shows that certain occupations may be associated with higher rates of obesity or sleep disorders, 
+which could be due to job-related stress, physical demands, or lifestyle constraints. 
+
+This insight is crucial for developing targeted wellness programs and interventions to improve the overall health and well-being of employees in specific occupational sectors.
 
 ![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
-
-
 
 
 
