@@ -48,7 +48,7 @@ The pie chart illustrates the distance employees live from the office, with a si
 In summmary, this HR dashboard provides valuable insights into the workforce composition, activity levels, and potential areas for career development, which are essential for strategic HR planning and decision-making.
 
  
-![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
+![HR_dashboard.PNG](HR_dashboard.PNG)
 
 
 # Project 2
@@ -124,7 +124,7 @@ Overall, the dashboard is a dynamic tool for analyzing sales data, understanding
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
 
 
-# Project 1
+# Project 4
 **Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard gives insight into the Occupational Health Impact Analysis, particularly examining BMI (Body Mass Index) categories and sleep disorders across various occupations.
