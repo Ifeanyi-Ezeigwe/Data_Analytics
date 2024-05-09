@@ -2,8 +2,11 @@
 # Project 1
 **Title**: [TechDrive HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
-**Project Description**:
-The dashboard indicates an employee turnover of 1,470. This metric represents the number of employees who have left the organization during a specific period.
+**Project Description**: This dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
+
+
+
+**Dashboard Overview**: The dashboard indicates an employee turnover of 1,470. This metric represents the number of employees who have left the organization during a specific period.
 High turnover may signal potential issues related to job satisfaction, work environment, or management practices.
 The gender distribution shows that 60% of the workforce is male, while 40% is female.
 the company will use this data to assess gender diversity and identify any gender-related disparities.
@@ -19,11 +22,8 @@ The pie chart categorizes employees based on their distance from the office.
 Understanding commuting patterns can inform decisions related to office locations and remote work policies.
 The percentages next to the graphs indicate net enrichment (117%) and an 8.8% increase in the active workforce.
 These metrics reflect positive trends and organizational health.
-In summary, this dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
-the company can use this data to address challenges, optimize workforce strategies, and foster a positive work environment. 
+In summary, the company can use this data to address challenges, optimize workforce strategies, and foster a positive work environment. 
 
-
-**Dashboard Overview**: The Dashboard indicates an employee turnover of 1,470. This metric repre
 ![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
 
 
