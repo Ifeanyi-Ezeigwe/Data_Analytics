@@ -1,6 +1,6 @@
  # Divine Ezeigwe Data Analytics Portfolio
 # Project 1
-**Title**: [TechDrive HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
+**Title**: [HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
 **Project Description**: This dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
 
