@@ -1,11 +1,11 @@
  # Divine Ezeigwe Data Analytics Portfolio
 # Project 1
-**Title**: [Divino Communication HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
+**Title**: [TechDrive HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
-**Project Description**: This dashboard gives an insight into Human Resource performance analysis of Divino Communications 
+**Project Description**: This dashboard gives an insight into Human Resource performance analysis of TechDrive Consult 
 
 **Dashboard Overview**:
-![Divino_HR_dashboard.PNG](Divino_HR_dashboard.PNG)
+![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
 
 
 # Project 2
