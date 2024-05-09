@@ -21,7 +21,15 @@ The percentages next to the graphs indicate net enrichment (117%) and an 8.8% in
 These metrics reflect positive trends and organizational health.
 In summary, the company can use this data to address challenges, optimize workforce strategies, and foster a positive work environment. 
 
-**Dashboard Overview**: 
+**Dashboard Overview**: The dashboard prominently displays the total number of employees, 1,470, emphasizing that these are individuals, not just numbers.
+It provides a breakdown of employees by gender, with 884 males and 586 females.
+It shows that 50% of the workforce is active, with an upward trend, suggesting a growing or highly engaged workforce.
+Service years are represented in bar graphs, categorizing employees based on their length of service, which is crucial for understanding workforce stability and experience.
+The dashboard also highlights employees due for promotion, indicating a high percentage (95.10%) of the workforce might be eligible for advancement.
+The horizontal bar graph under “Job Levels view” shows the distribution of employees across various job levels, which can help in planning career progression paths and training needs.
+The pie chart illustrates the distance employees live from the office, with a significant portion living within 20 km, which could impact commuting policies or remote work options.
+In summmary, this HR dashboard provides valuable insights into the workforce composition, activity levels, and potential areas for career development, which are essential for strategic HR planning and decision-making.
+
  
 ![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
 
