@@ -155,13 +155,13 @@ This insight is crucial for developing targeted wellness programs and interventi
 
 
 # Project 5
-**Title**: [Vrinda interactive sales dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+**Title**: [Walmart Product Performance Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**:
 
 
 **Dashboard Overview**: 
 
-
+![Walmart_Product_Performance_Analysis.PNG](Walmart_Product_Performance_Analysis.PNG)
 
 
