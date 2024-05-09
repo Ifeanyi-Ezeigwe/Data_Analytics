@@ -5,7 +5,7 @@
 **Project Description**: This dashboard gives an insight into Human Resource performance analysis of Divino Communications 
 
 **Dashboard Overview**:
-![HR_Analytics.png](HR_Analytics.png)
+!Divino_HR_dashboard.PNG](Divino_HR_dashboard.PNG)
 
 
 # Project 2
