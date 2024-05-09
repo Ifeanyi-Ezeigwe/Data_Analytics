@@ -1,6 +1,6 @@
 # Divine Ezeigwe Data Analytics Portfolio
 
-# Project 4
+# Project 1
 **Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**:
