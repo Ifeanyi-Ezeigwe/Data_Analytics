@@ -25,6 +25,6 @@
 
 **Dashboard Overview**:
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
-[Vrinda Sales Analysis.xlsx]
+
 
 
