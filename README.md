@@ -14,7 +14,7 @@
 **Project Description**: This dashboard gives an insight into sales performance for Adidas USA Sales
 
 **Dashboard Overview**:
-![Adidas_Interactive_Dashboard.png](Adidas_Interactive_Dashboard.png)
+![Adidas_Sales_Dashboard.PNG](Adidas_Sales_Dashboard.PNG)
 
 
 
