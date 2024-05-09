@@ -1,6 +1,6 @@
 # Divine Ezeigwe Data Analytics Portfolio
 # Project 1
-**Title**: [HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
+**Title**: [Divino Communication HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
 **Project Description**: This dashboard gives an insight into Human Resource performance analysis of Divino Communications 
 
@@ -9,9 +9,9 @@
 
 
 # Project 2
-**Title**: [Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+**Title**: [Adidas Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
-**Project Description**: This dashboard gives an insight into sales performance of Adidas USA Sales
+**Project Description**: This dashboard gives an insight into sales performance for Adidas USA Sales
 
 **Dashboard Overview:**
 ![Adidas_Interactive_Dashboard.png](Adidas_Interactive_Dashboard.png)
