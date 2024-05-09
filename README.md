@@ -30,6 +30,7 @@ These metrics reflect positive trends and organizational health.
 
 In summary, the company can use this data to address challenges, optimize workforce strategies, and foster a positive work environment. 
 
+
 **Dashboard Overview**: The dashboard prominently displays the total number of employees, 1,470, emphasizing that these are individuals, not just numbers.
 It provides a breakdown of employees by gender, with 884 males and 586 females.
 
@@ -91,9 +92,38 @@ The dashboard is interactive dynamic in nature, with filters for attendees, reta
 # Project 3
 **Title**: [Vrinda interactive sales dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
-**Project Description**: This dashboard gives an insight into the sales performance for Vrinda Sales
+**Project Description**: This dashboard gives an insight into the sales performance for Vrinda Sales.
 
-**Dashboard Overview**:
+At the top left, there are filter options for Area, Period, and Category, allowing users to tailor the data they see. 
+The ‘Channel’ and ‘Agent’ lists enable further refinement of the data.
+
+The “Order by Channel” bar graph shows the number of orders per channel, providing insights into which channels are most effective for sales.
+
+A pie chart titled “Sales based on Gender” illustrates the distribution of sales between males and females, which can help in understanding consumer demographics.
+
+The “Orders & Sales per month” graph combines bars and lines to depict monthly orders and sales, offering a view of sales trends over time.
+
+The “Order Status Performance” section uses horizontal bars to show performance metrics for different order statuses, indicating areas of efficiency or delay in the sales process.
+
+On the right side, the “Top 5 State with Highest Sales” section ranks states by sales volume, highlighting key markets.
+
+
+**Dashboard Overview**: The stakeholders can customize views using filters for Area, Period, Category, Channel, and Agent.
+
+The dashboard compares order volumes across sales channels.
+
+The pie chart shows the sales distribution between male and female customers.
+
+The bar and line graphs illustrate orders and sales over time, indicating growth or seasonal patterns.
+
+Order status performance metrics help identify process strengths and weaknesses.
+
+Overall, the dashboard is a dynamic tool for analyzing sales data, understanding customer demographics, and improving sales strategies.
+
+
+
+
+
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
 
 
