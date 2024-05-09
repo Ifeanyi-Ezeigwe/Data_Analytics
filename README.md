@@ -1,5 +1,17 @@
 # Divine Ezeigwe Data Analytics Portfolio
-# Project 1
+
+# Project 4
+**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+
+**Project Description**:
+
+
+**Dashboard Overview**: 
+
+![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
+
+
+# Project 2
 **Title**: [HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
 **Project Description**: This dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
@@ -50,7 +62,7 @@ In summmary, this HR dashboard provides valuable insights into the workforce com
 ![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
 
 
-# Project 2
+# Project 3
 **Title**: [Adidas Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard provides a comprehensive view of Adidas’ sales performance, 
@@ -89,7 +101,7 @@ The dashboard is interactive dynamic in nature, with filters for attendees, reta
 
 
 
-# Project 3
+# Project 4
 **Title**: [Vrinda interactive sales dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard gives an insight into the sales performance for Vrinda Sales.
@@ -122,16 +134,6 @@ Overall, the dashboard is a dynamic tool for analyzing sales data, understanding
 
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
 
-
-# Project 4
-**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
-
-**Project Description**:
-
-
-**Dashboard Overview**: 
-
-![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
 
 
 # Project 5
