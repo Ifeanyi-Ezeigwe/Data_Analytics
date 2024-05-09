@@ -157,10 +157,23 @@ This insight is crucial for developing targeted wellness programs and interventi
 # Project 5
 **Title**: [Walmart Product Performance Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
-**Project Description**:
+**Project Description**: This dashboard gives a comprehensive insight into Walmart’s financial performance across different products in USA
+The **Profit by Product Category** section shows a horizontal bar graph with categories such as Arizona, California, Colorado, and others.
+The graph shows the profit for each category, with the x-axis representing profit in increments of $10K.
 
+The **Total Profit and Sales by Year** section consist of two charts; The stacked column chart shows Cost of Goods Sold (COGS) and Sum of Sales for the years 2011 to 2014. 
+The line graph next to it displays Total Revenue over the same period, with specific revenue amounts marked at each data point.
 
-**Dashboard Overview**: 
+The **Profit by State** section shows a geographical map of the United States highlights various states in different shades of blue, 
+indicating the total revenue generated from those states. The darker the shade, the higher the revenue. 
+An indicator scale correlates the shades of blue with total revenue amounts ranging from $1M to $4M.
+
+Finally, the **Total Profit** section at the bottom center of the dashboard, indicate the Total Profit of ‘108.42K,’ by the company across board.
+
+**Dashboard Overview**:  This dashboard is designed to provide key insights into WALMART’s business performance, 
+highlighting areas of strength and opportunities for growth. 
+
+It allows stakeholders to quickly assess profitability across product categories and regions, as well as track sales and revenue trends over time.
 
 ![Walmart_Product_Performance_Analysis.PNG](Walmart_Product_Performance_Analysis.PNG)
 
