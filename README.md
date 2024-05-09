@@ -3,8 +3,8 @@
 **Title**: [TechDrive HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
 **Project Description**:
- <br>The dashboard indicates an employee turnover of 1,470. This metric represents the number of employees who have left the organization during a specific period.
-High turnover may signal potential issues related to job satisfaction, work environment, or management practices. <br>
+The dashboard indicates an employee turnover of 1,470. This metric represents the number of employees who have left the organization during a specific period.
+High turnover may signal potential issues related to job satisfaction, work environment, or management practices.
 The gender distribution shows that 60% of the workforce is male, while 40% is female.
 the company will use this data to assess gender diversity and identify any gender-related disparities.
 The dashboard also reports that the company has a total 932 active workers, representing 95.10% of the total workforce.
