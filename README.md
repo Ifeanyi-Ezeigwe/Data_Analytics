@@ -1,17 +1,6 @@
 # Divine Ezeigwe Data Analytics Portfolio
 
 # Project 1
-**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
-
-**Project Description**:
-
-
-**Dashboard Overview**: 
-
-![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
-
-
-# Project 2
 **Title**: [HR Analysis Dashboard](https://github.com/Ifeanyi-Ezeigwe/Data_Analytics)
 
 **Project Description**: This dashboard provides valuable insights for human resource management, talent development, and organizational decision-making. 
@@ -62,7 +51,7 @@ In summmary, this HR dashboard provides valuable insights into the workforce com
 ![TechDrive_HR_dashboard.PNG](TechDrive_HR_dashboard.PNG)
 
 
-# Project 3
+# Project 2
 **Title**: [Adidas Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard provides a comprehensive view of Adidas’ sales performance, 
@@ -101,7 +90,7 @@ The dashboard is interactive dynamic in nature, with filters for attendees, reta
 
 
 
-# Project 4
+# Project 3
 **Title**: [Vrinda interactive sales dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard gives an insight into the sales performance for Vrinda Sales.
@@ -133,6 +122,32 @@ Order status performance metrics help identify process strengths and weaknesses.
 Overall, the dashboard is a dynamic tool for analyzing sales data, understanding customer demographics, and improving sales strategies.
 
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
+
+
+# Project 1
+**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+
+**Project Description**: This dashboard gives insight into the Occupational Health Impact Analysis, particularly examining BMI (Body Mass Index) categories and sleep disorders across various occupations.
+
+On the left side, there’s a pie chart that categorizes BMI into four groups: underweight, normal weight, overweight, and obese. 
+This visual representation helps to quickly grasp the overall health status related to body weight within the workforce.
+
+Below the BMI pie chart, a gender distribution bar indicates the proportion of male and female employees, 
+providing insights into the gender demographics of the workforce.
+
+The central bar graph contrasts physical activity levels (sedentary, low, moderate, active) against BMI categories, offering an analysis of lifestyle choices in relation to body weight.
+
+On the right, the top horizontal bar graph displays the prevalence of sleep disorders, such as insomnia and sleep apnea, across different occupations, highlighting occupational risks associated with poor sleep quality.
+
+The bottom graph on the right side shows sleep duration by occupation, which can be crucial for understanding how work demands impact rest and recovery.
+
+This dashboard is a valuable tool for health professionals and researchers to analyze how occupational factors influence BMI and sleep patterns, which are critical components of overall health and well-being. It provides a clear and interactive overview of health-related data for strategic decision-making in occupational health management.
+
+**Dashboard Overview**: 
+
+![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
+
+
 
 
 
