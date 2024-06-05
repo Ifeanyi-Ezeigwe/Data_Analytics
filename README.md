@@ -91,6 +91,60 @@ The dashboard is interactive dynamic in nature, with filters for attendees, reta
 
 
 # Project 3
+**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+
+**Project Description**: This dashboard gives insight into the Occupational Health Impact Analysis, particularly examining BMI (Body Mass Index) categories and sleep disorders across various occupations.
+
+On the left side, there’s a pie chart that categorizes BMI into four groups: underweight, normal weight, overweight, and obese. 
+This visual representation helps to quickly grasp the overall health status related to body weight within the workforce.
+
+Below the BMI pie chart, a gender distribution bar indicates the proportion of male and female employees, 
+providing insights into the gender demographics of the workforce.
+
+The central bar graph contrasts physical activity levels (sedentary, low, moderate, active) against BMI categories, offering an analysis of lifestyle choices in relation to body weight.
+
+On the right, the top horizontal bar graph displays the prevalence of sleep disorders, such as insomnia and sleep apnea, across different occupations, highlighting occupational risks associated with poor sleep quality.
+
+The bottom graph on the right side shows sleep duration by occupation, which can be crucial for understanding how work demands impact rest and recovery.
+
+This dashboard is a valuable tool for health professionals and researchers to analyze how occupational factors influence BMI and sleep patterns, which are critical components of overall health and well-being. It provides a clear and interactive overview of health-related data for strategic decision-making in occupational health management.
+
+**Dashboard Overview**: "**Occupational Health Impact Analysis**” dashboard has a significant correlation between occupation and health-related factors such as BMI and sleep quality. 
+
+The data shows that certain occupations may be associated with higher rates of obesity or sleep disorders, 
+which could be due to job-related stress, physical demands, or lifestyle constraints. 
+
+This insight is crucial for developing targeted wellness programs and interventions to improve the overall health and well-being of employees in specific occupational sectors.
+
+![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
+
+
+
+# Project 4
+**Title**: [Walmart Product Performance Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+
+**Project Description**: This dashboard gives a comprehensive insight into Walmart’s financial performance across different products in USA
+The **Profit by Product Category** section shows a horizontal bar graph with categories such as Arizona, California, Colorado, and others.
+The graph shows the profit for each category, with the x-axis representing profit in increments of $10K.
+
+The **Total Profit and Sales by Year** section consist of two charts; The stacked column chart shows Cost of Goods Sold (COGS) and Sum of Sales for the years 2011 to 2014. 
+The line graph next to it displays Total Revenue over the same period, with specific revenue amounts marked at each data point.
+
+The **Profit by State** section shows a geographical map of the United States highlights various states in different shades of blue, 
+indicating the total revenue generated from those states. The darker the shade, the higher the revenue. 
+An indicator scale correlates the shades of blue with total revenue amounts ranging from $1M to $4M.
+
+Finally, the **Total Profit** section at the bottom center of the dashboard, indicate the Total Profit of ‘108.42K,’ by the company across board.
+
+**Dashboard Overview**:  This dashboard is designed to provide key insights into WALMART’s business performance, 
+highlighting areas of strength and opportunities for growth. 
+
+It allows stakeholders to quickly assess profitability across product categories and regions, as well as track sales and revenue trends over time.
+
+![Walmart_Product_Performance_Analysis.PNG](Walmart_Product_Performance_Analysis.PNG)
+
+
+# Project 5
 **Title**: [Vrinda interactive sales dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard gives an insight into the sales performance for Vrinda Sales.
@@ -122,59 +176,4 @@ Order status performance metrics help identify process strengths and weaknesses.
 Overall, the dashboard is a dynamic tool for analyzing sales data, understanding customer demographics, and improving sales strategies.
 
 ![Vrinda_Sales_dashboard.PNG](Vrinda_Sales_dashboard.PNG)
-
-
-# Project 4
-**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
-
-**Project Description**: This dashboard gives insight into the Occupational Health Impact Analysis, particularly examining BMI (Body Mass Index) categories and sleep disorders across various occupations.
-
-On the left side, there’s a pie chart that categorizes BMI into four groups: underweight, normal weight, overweight, and obese. 
-This visual representation helps to quickly grasp the overall health status related to body weight within the workforce.
-
-Below the BMI pie chart, a gender distribution bar indicates the proportion of male and female employees, 
-providing insights into the gender demographics of the workforce.
-
-The central bar graph contrasts physical activity levels (sedentary, low, moderate, active) against BMI categories, offering an analysis of lifestyle choices in relation to body weight.
-
-On the right, the top horizontal bar graph displays the prevalence of sleep disorders, such as insomnia and sleep apnea, across different occupations, highlighting occupational risks associated with poor sleep quality.
-
-The bottom graph on the right side shows sleep duration by occupation, which can be crucial for understanding how work demands impact rest and recovery.
-
-This dashboard is a valuable tool for health professionals and researchers to analyze how occupational factors influence BMI and sleep patterns, which are critical components of overall health and well-being. It provides a clear and interactive overview of health-related data for strategic decision-making in occupational health management.
-
-**Dashboard Overview**: "**Occupational Health Impact Analysis**” dashboard has a significant correlation between occupation and health-related factors such as BMI and sleep quality. 
-
-The data shows that certain occupations may be associated with higher rates of obesity or sleep disorders, 
-which could be due to job-related stress, physical demands, or lifestyle constraints. 
-
-This insight is crucial for developing targeted wellness programs and interventions to improve the overall health and well-being of employees in specific occupational sectors.
-
-![Occupational_health_impact_Analysis.PNG](Occupational_health_impact_Analysis.PNG)
-
-
-
-# Project 5
-**Title**: [Walmart Product Performance Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
-
-**Project Description**: This dashboard gives a comprehensive insight into Walmart’s financial performance across different products in USA
-The **Profit by Product Category** section shows a horizontal bar graph with categories such as Arizona, California, Colorado, and others.
-The graph shows the profit for each category, with the x-axis representing profit in increments of $10K.
-
-The **Total Profit and Sales by Year** section consist of two charts; The stacked column chart shows Cost of Goods Sold (COGS) and Sum of Sales for the years 2011 to 2014. 
-The line graph next to it displays Total Revenue over the same period, with specific revenue amounts marked at each data point.
-
-The **Profit by State** section shows a geographical map of the United States highlights various states in different shades of blue, 
-indicating the total revenue generated from those states. The darker the shade, the higher the revenue. 
-An indicator scale correlates the shades of blue with total revenue amounts ranging from $1M to $4M.
-
-Finally, the **Total Profit** section at the bottom center of the dashboard, indicate the Total Profit of ‘108.42K,’ by the company across board.
-
-**Dashboard Overview**:  This dashboard is designed to provide key insights into WALMART’s business performance, 
-highlighting areas of strength and opportunities for growth. 
-
-It allows stakeholders to quickly assess profitability across product categories and regions, as well as track sales and revenue trends over time.
-
-![Walmart_Product_Performance_Analysis.PNG](Walmart_Product_Performance_Analysis.PNG)
-
 
