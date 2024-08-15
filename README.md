@@ -52,7 +52,7 @@ In summmary, this HR dashboard provides valuable insights into the workforce com
 
 
 # Project 2
-**Title**: [Adidas Interactive Sales Dasboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+**Title**: [Adidas Interactive Sales Dashboard](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard provides a comprehensive view of Adidas’ sales performance, 
 offering actionable insights that can help optimize sales strategies, product distribution, and regional focus. 
