@@ -91,7 +91,7 @@ The dashboard is interactive dynamic in nature, with filters for attendees, reta
 
 
 # Project 3
-**Title**: [Occupational Health Impact Analysis](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
+**Title**: [Occupational Health Impact Analysis and Visualisation](https://ifeanyi-ezeigwe.github.io/Data_Analytics/)
 
 **Project Description**: This dashboard gives insight into the Occupational Health Impact Analysis, particularly examining BMI (Body Mass Index) categories and sleep disorders across various occupations.
 
